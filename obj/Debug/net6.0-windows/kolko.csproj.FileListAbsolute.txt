@@ -1,0 +1,54 @@
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.exe
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.deps.json
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.runtimeconfig.json
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.dll
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.pdb
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.main.resources
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.GenerateResource.cache
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.GeneratedMSBuildEditorConfig.editorconfig
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfoInputs.cache
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfo.cs
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.CoreCompileInputs.cache
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.dll
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\refint\kolko.dll
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.pdb
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.genruntimeconfig.cache
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\ref\kolko.dll
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.exe
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.deps.json
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.runtimeconfig.json
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.dll
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\bin\Debug\net6.0-windows\kolko.pdb
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.main.resources
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.Properties.Resources.resources
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.GenerateResource.cache
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.GeneratedMSBuildEditorConfig.editorconfig
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfoInputs.cache
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfo.cs
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.CoreCompileInputs.cache
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.dll
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\refint\kolko.dll
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.pdb
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.genruntimeconfig.cache
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\ref\kolko.dll
+G:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.game.resources
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.game.resources
+E:\szkola\vscs\kolko i krzyzyk\kolko\kolko\obj\Debug\net6.0-windows\kolko.Properties.Resources.resources
+C:\Users\stepa\Downloads\kolko\kolko\bin\Debug\net6.0-windows\kolko.exe
+C:\Users\stepa\Downloads\kolko\kolko\bin\Debug\net6.0-windows\kolko.deps.json
+C:\Users\stepa\Downloads\kolko\kolko\bin\Debug\net6.0-windows\kolko.runtimeconfig.json
+C:\Users\stepa\Downloads\kolko\kolko\bin\Debug\net6.0-windows\kolko.dll
+C:\Users\stepa\Downloads\kolko\kolko\bin\Debug\net6.0-windows\kolko.pdb
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.game.resources
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.main.resources
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.Properties.Resources.resources
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.GenerateResource.cache
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfoInputs.cache
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.AssemblyInfo.cs
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.csproj.CoreCompileInputs.cache
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.dll
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\refint\kolko.dll
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.pdb
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\kolko.genruntimeconfig.cache
+C:\Users\stepa\Downloads\kolko\kolko\obj\Debug\net6.0-windows\ref\kolko.dll
